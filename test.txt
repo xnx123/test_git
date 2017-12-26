@@ -1,2 +1,3 @@
 i want to test git !
 now i add message in web!new !now wo know it is only commit message!
+i add a file
